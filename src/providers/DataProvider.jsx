@@ -43,6 +43,7 @@ const DataProvider = ({ children }) => {
 
     const [data, setData] = useState({
         viewArchiveNav: false,
+        currentInfoComponent: 'info',
         manufucktum: []
     })
 
