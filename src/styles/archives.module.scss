@@ -1,0 +1,11 @@
+@import './vars.scss';
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    p { 
+        color: red;
+    }
+}

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "slug": "lemon_press",
+        "artist": {
+            "name": "Brutus Brecht",
+            "birthyear": "2010",
+            "birthcity": "Berlin",
+            "workcity": "Berlin",
+            "bio": "Hi, my name is Jannis — but most people call me Brutus. I am a Berlin based creative that loves creating interfaces between humans and electronic.",
+            "socialmedia": {
+                "instagram": "brutusbrecht",
+                "website": "brutusbrecht.com"
+            }
+        },
+        "artwork": {
+            "title": "Die Zitronenpresse",
+            "video": "string",
+            "description": "Once udon nudels a time",
+            "materials": "Lemon on Canvas",
+            "start_date": 1643829633,
+            "end_date": 1675362033
+        },
+        "nft": {
+            "id": "string"
+        }
+    },
+    {
+        "id": 2,
+        "slug": "lemon_press",
+        "artist": {
+            "name": "Brutus Brecht",
+            "birthyear": "2010",
+            "birthcity": "Berlin",
+            "workcity": "Berlin",
+            "bio": "Hi, my name is Jannis — but most people call me Brutus. I am a Berlin based creative that loves creating interfaces between humans and electronic.",
+            "socialmedia": {
+                "instagram": "brutusbrecht",
+                "website": "brutusbrecht.com"
+            }
+        },
+        "artwork": {
+            "title": "Die Zitronenpresse",
+            "video": "string",
+            "description": "Once udon nudels a time",
+            "materials": "Lemon on Canvas",
+            "start_date": 1643829633,
+            "end_date": 1675362033
+        },
+        "nft": {
+            "id": "string"
+        }
+    }
+]
