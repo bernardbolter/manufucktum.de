@@ -1,9 +1,16 @@
 module.exports = {
   siteMetadata: {
       title: `manufucktum.de`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.manufucktum.de`
   },
-  plugins: ["gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
+  plugins: [
+    "gatsby-plugin-sass", 
+    "gatsby-plugin-image", 
+    "gatsby-plugin-react-helmet", 
+    "gatsby-plugin-sitemap", 
+    "gatsby-plugin-sharp", 
+    "gatsby-transformer-sharp", 
+  {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "images",
